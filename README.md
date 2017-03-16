@@ -1,4 +1,3 @@
-# piacis0722.github.io
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -7,5 +6,6 @@
 </head>
 <body>
     <h1>장희연의 홈페이지입니다</h1>
+    <div class=""><img src="02.jpg" alt=""></div>
 </body>
 </html>
